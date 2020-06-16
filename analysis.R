@@ -1,4 +1,4 @@
-## source('requirements.R')
+source('requirements.R')
 library(bibliometrix)
 
 ## Data loading
