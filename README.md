@@ -2,6 +2,6 @@
 
 This repository contains the programming code we developed for the paper
 submitted to Scientometrics. The code implements the methodology of
-the paper and reproduce some figures of the paper.
+the paper and reproduce some figures.
 
 For more details please contact the authors.
